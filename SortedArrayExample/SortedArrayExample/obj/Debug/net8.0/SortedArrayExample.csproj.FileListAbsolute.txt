@@ -1,0 +1,14 @@
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\bin\Debug\net8.0\SortedArrayExample.exe
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\bin\Debug\net8.0\SortedArrayExample.deps.json
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\bin\Debug\net8.0\SortedArrayExample.runtimeconfig.json
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\bin\Debug\net8.0\SortedArrayExample.dll
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\bin\Debug\net8.0\SortedArrayExample.pdb
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\obj\Debug\net8.0\SortedArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\obj\Debug\net8.0\SortedArrayExample.AssemblyInfoInputs.cache
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\obj\Debug\net8.0\SortedArrayExample.AssemblyInfo.cs
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\obj\Debug\net8.0\SortedArrayExample.csproj.CoreCompileInputs.cache
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\obj\Debug\net8.0\SortedArrayExample.dll
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\obj\Debug\net8.0\refint\SortedArrayExample.dll
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\obj\Debug\net8.0\SortedArrayExample.pdb
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\obj\Debug\net8.0\SortedArrayExample.genruntimeconfig.cache
+C:\Massiv\Classs\SortedArrayExample\SortedArrayExample\obj\Debug\net8.0\ref\SortedArrayExample.dll
