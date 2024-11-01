@@ -161,5 +161,5 @@ internal class SortedLongArray //Класс реализации поиска в
         return _array[_count - 1];
     }
 
-    public long this[int index] => _array[index]; // Индексатор для доступа к элементам
+    public long this[int index] => _array[index]; 
 }
